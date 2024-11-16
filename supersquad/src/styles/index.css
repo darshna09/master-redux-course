@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+  padding: 5px;
+}
+
+.right-button {
+  cursor: pointer;
+  float: right;
+}
+
+.list-item {
+  display: inline-block;
+}
